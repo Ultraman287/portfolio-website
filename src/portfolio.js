@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Full Stack Software Developer with experience in building Web applications with JavaScript / Python / Django / Flask. Alongside, I love data analytics having hands-on experience in data analysis and visualization using Python's various ML libraries.",
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1Lerkcay8nRN0PfBKeUtxfdN_pIiBMn6S/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
